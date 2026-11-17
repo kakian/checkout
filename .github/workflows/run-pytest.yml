@@ -17,5 +17,5 @@ jobs:
       - name: Install pytest
         run: pip install pytest
 
-      - name: Run tests
+      - name: Run tests2
         run:  python -m pytest
